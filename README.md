@@ -22,7 +22,6 @@ Nádia Cunha
 | ------------- |:-------------:| -----:|
 | `Entity` | Local      |  |
 | `Code` |    Código do Local     |  |
-
 | `Year` |         | |         
 | `Unsafe water source (deaths)` |            |    |
 | `Poor sanitation (deaths)` | |         |

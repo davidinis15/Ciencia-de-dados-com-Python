@@ -17,6 +17,9 @@ Nádia Cunha
 | `confirmados_arscentro` | Casos confirmados na ARS Centro      | Inteiro >= 0 |
 | `confirmados_arslvt` | Casos confirmados na ARS Lisboa e Vale do Tejo      | Inteiro >= 0 |
 
+📝 World Data 2017: Número de mortes por fator de risco
+
+
 | `Entity` | Local      | Inteiro >= 0 |
 | `Code` |         |
 | `Year` |         |

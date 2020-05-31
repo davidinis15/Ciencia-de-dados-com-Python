@@ -6,15 +6,6 @@ David Dinis
 Nádia Cunha
 
 
-📝 _ARS_: Administração Regional de Saúde 
-
-| Nome da coluna        | Significado           | Possíveis valores  |
-| ------------- |:-------------:| -----:|
-| `data` | Data da publicação dos dados. | DD-MM-YYYY |
-| `confirmados` | Casos confirmados      | Inteiro >= 0 |
-| `confirmados_arsnorte` | Casos confirmados na ARS Norte      | Inteiro >= 0 |
-| `confirmados_arscentro` | Casos confirmados na ARS Centro      | Inteiro >= 0 |
-| `confirmados_arslvt` | Casos confirmados na ARS Lisboa e Vale do Tejo      | Inteiro >= 0 |
 
 📝 World Data 2017: Número de mortes por fator de risco
 | Nome da coluna        | Significado           | Possíveis valores  |

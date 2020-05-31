@@ -20,8 +20,8 @@ Nádia Cunha
 📝 World Data 2017: Número de mortes por fator de risco
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
-| `Entity` | Local      | Obj |
-| `Code` |    Código do Local     | Obj |
+| `Entity` | Local      |  |
+| `Code` |    Código do Local     |  |
 
 | `Year` |         | |         
 | `Unsafe water source (deaths)` |            |    |

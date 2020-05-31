@@ -20,42 +20,42 @@ Nádia Cunha
 📝 World Data 2017: Número de mortes por fator de risco
 
 
-| `Entity` | Local      | Inteiro >= 0 |
-| `Code` |         |
-| `Year` |         |
-| `Unsafe water source (deaths)` |            |
-| `Poor sanitation (deaths)` |
-| `No access to handwashing facility (deaths)` |
-| `Indoor air pollution (deaths)` |
-| `Non-exclusive breastfeeding (deaths)  ` |
-| `Discontinued breastfeeding (deaths)` |
-| `Child wasting (deaths) ` |                                          
-| `Child stunting (deaths)` |
-| `Low birth weight (deaths)` |
-| `Secondhand smoke (deaths) ` |
-| `Alcohol use (deaths)` |                       
-| `Drug use (deaths) ` |
-| `Diet low in fruits (deaths)` |
-| `Diet low in vegetables (deaths)` |                                          
-| `Unsafe sex (deaths)` |
-| `Low physical activity (deaths)` |
-| `High blood sugar (deaths)` |
-| `High cholesterol (deaths)` |
-| `Obesity (deaths)` |
-| `High blood pressure (deaths)` |
-| `Smoking (deaths)` |
-| `Iron deficiency (deaths)` |
-| `Zinc deficiency (deaths) ` |
-| `Vitamin-A deficiency (deaths)` |
-| `Low bone mineral density (deaths) ` |
-| `Air pollution (outdoor & indoor) (deaths) ` |
-| `Outdoor air pollution (deaths)` |
-| `Diet low in fiber (deaths)  ` |
-| `Diet high in sodium (deaths)` |
-| `Diet low in legumes (deaths)` |
-| `Diet low in calcium (deaths)` |                                                                        
-| `Diet high in red meat (deaths) ` |                       
-| `Diet low in whole grains (deaths) ` |                   
-| `Diet low in nuts and seeds (deaths)` |          
-| `Diet low in seafood omega-3 fatty acids (deaths)` |                                            
+| `Entity` | Local      | Obj |
+| `Code` |    Código do Local     | Obj |
+| `Year` |         | |         
+| `Unsafe water source (deaths)` |            |    |
+| `Poor sanitation (deaths)` | |         |
+| `No access to handwashing facility (deaths)` | | |         
+| `Indoor air pollution (deaths)` | | |         
+| `Non-exclusive breastfeeding (deaths)  ` | | |         
+| `Discontinued breastfeeding (deaths)` | | |         
+| `Child wasting (deaths) ` | |         |                                          
+| `Child stunting (deaths)` | |         |
+| `Low birth weight (deaths)` | |         |
+| `Secondhand smoke (deaths) ` | |         |
+| `Alcohol use (deaths)` |  |         |                      
+| `Drug use (deaths) ` | |         |
+| `Diet low in fruits (deaths)` | |         |
+| `Diet low in vegetables (deaths)` |     |         |                                      
+| `Unsafe sex (deaths)` | |         |
+| `Low physical activity (deaths)` | |         |
+| `High blood sugar (deaths)` | |         |
+| `High cholesterol (deaths)` | |         |
+| `Obesity (deaths)` | |         |
+| `High blood pressure (deaths)` | |         |
+| `Smoking (deaths)` | |         |
+| `Iron deficiency (deaths)` | |         |
+| `Zinc deficiency (deaths) ` | |         |
+| `Vitamin-A deficiency (deaths)` | |         |
+| `Low bone mineral density (deaths) ` | |         |
+| `Air pollution (outdoor & indoor) (deaths) ` | |         |
+| `Outdoor air pollution (deaths)` | |         |
+| `Diet low in fiber (deaths)  ` | |         |
+| `Diet high in sodium (deaths)` | |         |
+| `Diet low in legumes (deaths)` | |         |
+| `Diet low in calcium (deaths)` |   |         |                                                                      
+| `Diet high in red meat (deaths) ` |       |         |                
+| `Diet low in whole grains (deaths) ` |     |         |              
+| `Diet low in nuts and seeds (deaths)` |          |         |
+| `Diet low in seafood omega-3 fatty acids (deaths)` |     |         |                                       
                                                                                                            
